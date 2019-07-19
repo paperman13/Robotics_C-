@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\C#\Network\Network_server\Network_server\bin\Debug\netcoreapp2.1\Network_server.deps.json
+C:\Users\Administrator\Desktop\C#\Network\Network_server\Network_server\bin\Debug\netcoreapp2.1\Network_server.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#\Network\Network_server\Network_server\bin\Debug\netcoreapp2.1\Network_server.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C#\Network\Network_server\Network_server\bin\Debug\netcoreapp2.1\Network_server.dll
+C:\Users\Administrator\Desktop\C#\Network\Network_server\Network_server\bin\Debug\netcoreapp2.1\Network_server.pdb
+C:\Users\Administrator\Desktop\C#\Network\Network_server\Network_server\obj\Debug\netcoreapp2.1\Network_server.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\Network\Network_server\Network_server\obj\Debug\netcoreapp2.1\Network_server.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#\Network\Network_server\Network_server\obj\Debug\netcoreapp2.1\Network_server.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#\Network\Network_server\Network_server\obj\Debug\netcoreapp2.1\Network_server.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#\Network\Network_server\Network_server\obj\Debug\netcoreapp2.1\Network_server.dll
+C:\Users\Administrator\Desktop\C#\Network\Network_server\Network_server\obj\Debug\netcoreapp2.1\Network_server.pdb
